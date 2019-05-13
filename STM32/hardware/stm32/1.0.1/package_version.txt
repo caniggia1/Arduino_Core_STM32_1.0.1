@@ -1,0 +1,4 @@
+commit 014bfde7ca64f6f95eea0e4ee1607aff4ecab887
+Author: Frederic.Pillon <frederic.pillon@st.com>
+
+    Improve PulseIn().

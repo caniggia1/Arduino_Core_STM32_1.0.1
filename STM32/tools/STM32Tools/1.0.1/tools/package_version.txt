@@ -1,0 +1,4 @@
+commit ac62b9ab51198033177f3170330a5c9de26fd561
+Author: Frederic.Pillon <frederic.pillon@st.com>
+
+    Fix permission for massStorageCopyMacOsX
